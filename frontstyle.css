@@ -1,0 +1,23 @@
+body{
+    font-size:5px;
+   background-color:white;
+}
+h1{
+    font-size:10px;
+    color:red;
+    text-align:centre;
+}
+h2{
+    font-size:8px;
+    color:white;
+}
+h3{
+    font-size:8px;
+    color:violet;
+}
+.para1{
+    color:white;
+}
+p{
+    color:white;
+}

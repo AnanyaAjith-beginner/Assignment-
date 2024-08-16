@@ -1,0 +1,23 @@
+h2{
+            fontsize:15px;
+            color:#ba80ff;
+            
+        }
+        body{
+            background-color:white;
+            fontsize:8px;
+            margin:3px;
+        }
+        h1{
+          
+           font-size:20px;
+            color:red;
+        }
+ div {
+  width: 500px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
+
+   
